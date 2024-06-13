@@ -119,16 +119,7 @@ As we can see that our best performing models had an f1 score in the range of 70
 
 ### Installing and steps to run the software
 
-A step by step series of examples that tell you have to get a development env running
 
-1. The first step would be to clone this repo in a folder in your local machine. To do that you need to run following command in command prompt or in git bash
-```
-$ git clone https://github.com/nishitpatel01/Fake_News_Detection.git
-```
-
-2. This will copy all the data source file, program files and model into your machine.
-
-3.
    - If you have chosen to install anaconda then follow below instructions
      - After all the files are saved in a folder in your machine. If you chosen to install anaconda from the steps given in 	               ```Prerequisites``` sections then open the anaconda prompt, change the directory to the folder where this project is saved in     your machine and type below command and press enter.
 	```
